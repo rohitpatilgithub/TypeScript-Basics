@@ -6,7 +6,8 @@ Before going through this git repo you should have basic understanding of go Jav
 ## 🌑 Chapter 1
 
 ```
-🎯 Type annotations are used to specify the types of variables, function parameters, and return values
+🎯 Type annotations are used to specify the types of variables, function parameters,
+ and return values
 ```
 
 ## 🌒 Chapter 2
