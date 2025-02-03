@@ -34,3 +34,11 @@ specifying which properties they must have and what types those properties shoul
 🎯 Generics provide a way to write reusable code that can work with
  any data type, while still maintaining the correct type information.
 ```
+
+## ✒️ Authors
+
+- 📝 [@rohitpatilgithub](https://www.github.com/rohitpatilgithub)
+
+## ❤️ Reference
+
+- 🌕 [!Youtube](https://www.youtube.com/watch?v=3mDny9XAgic)
