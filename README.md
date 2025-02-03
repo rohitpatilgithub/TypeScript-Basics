@@ -11,7 +11,8 @@ Before going through this git repo you should have basic understanding of go Jav
 
 ## 🌒 Chapter 2
 ```
-🎯 Interfaces are used to define the structure of objects, specifying which properties they must have and what types those properties should be
+🎯 Interfaces are used to define the structure of objects,
+specifying which properties they must have and what types those properties should be
 ```
 
 ## 🌓 Chapter 3
@@ -22,11 +23,13 @@ Before going through this git repo you should have basic understanding of go Jav
 
 ## 🌔 Chapter 4
 ```
-🎯 Enums are a way to give more friendly names to sets of numeric values or strings.
+🎯 Enums are a way to give more friendly names to
+ sets of numeric values or strings.
 ```
 
 ## 🌕 Chapter 5
 
 ```
-🎯 Generics provide a way to write reusable code that can work with any data type, while still maintaining the correct type information.
+🎯 Generics provide a way to write reusable code that can work with
+ any data type, while still maintaining the correct type information.
 ```
